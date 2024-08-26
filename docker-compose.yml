@@ -1,5 +1,6 @@
 version: '3.8'
 
+# I'm not supposed to be able to make changes to this file as a student, what happens if I do?
 services:
   mariadb:
     image: mariadb:latest
